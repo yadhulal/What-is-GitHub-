@@ -1,5 +1,6 @@
 # What-is-GitHub-
-Everything you want to know about GitHub in a beginner level prespective.
+Everything you want to know about GitHub in a beginner level prespective.<br> 
+Project Bizel B2B application.
 
 <h1>What is GitHub ?</h1><br>
 GitHub is a platform that helps people to solve problems by building software together.  A code hosting platform for version control and collaboration.
