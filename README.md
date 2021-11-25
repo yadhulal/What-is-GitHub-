@@ -22,3 +22,12 @@ Pull Request (PR) - the way to ask for changes made to branch to be merged
 
 Merge -  after a pull request is approved, the commit will be pulled in (or merged)
                from one branch to another and then deployed on the live site.
+               
+
+Forking<br>
+To get started you  must have to fork the git.
+So far you can use the link   https://github.com/jeswincyriac/bizel
+From this repo you can find a fork button on the right side of the window
+Clicking on that button  you can fork after you can see the repo on your repository.
+On the repo button, namely “code”.
+From there you can clone the project, by simply copying the link.
