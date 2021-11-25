@@ -25,9 +25,9 @@ Merge -  after a pull request is approved, the commit will be pulled in (or merg
                
 
 <h2>Forking</h2><br>
-To get started you  must have to fork the git.
-So far you can use the link   https://github.com/jeswincyriac/bizel
-From this repo you can find a fork button on the right side of the window
-Clicking on that button  you can fork after you can see the repo on your repository.
-On the repo button, namely “code”.
-From there you can clone the project, by simply copying the link.
+<li><ui>To get started you  must have to fork the git.</ui>
+  <ui>So far you can use the link   https://github.com/jeswincyriac/bizel</ui>
+  <ui>From this repo you can find a fork button on the right side of the window</ui>
+  <ui>Clicking on that button  you can fork after you can see the repo on your repository.</ui>
+  <ui>On the repo button, namely “code”.</ui>
+  <ui>From there you can clone the project, by simply copying the link.</ui></li>
