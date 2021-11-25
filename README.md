@@ -1,11 +1,11 @@
 # What-is-GitHub-
 Everything you want to know about GitHub in a beginner level prespective.
 
-What is GitHub ?
+What is GitHub ?<br>
 GitHub is a platform that helps people to solve problems by building software together.  A code hosting platform for version control and collaboration.
 It lets you and others work together on projects from anywhere.
 
-Speak GitHub ?
+Speak GitHub ?<br>
 Repository(repo) - a folder in which all files and their version histories
                                 are stored.
 
