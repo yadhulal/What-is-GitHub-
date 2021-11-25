@@ -24,7 +24,7 @@ Merge -  after a pull request is approved, the commit will be pulled in (or merg
                from one branch to another and then deployed on the live site.
                
 
-Forking<br>
+<h2>Forking</h2><br>
 To get started you  must have to fork the git.
 So far you can use the link   https://github.com/jeswincyriac/bizel
 From this repo you can find a fork button on the right side of the window
